@@ -1,0 +1,9 @@
+{
+  "name": "lumentao-bazi-api",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "dependencies": {
+    "bazi-calculator-by-alvamind": "^1.0.3"
+  }
+}
